@@ -1,14 +1,22 @@
-# Fundamentals of Algorithms - Assignment 1 S1 2023
+# PaintFlow
 
-## Attribution
+PaintFlow is a simple and playful image editing application, drawing inspiration from [Chicory: A Colorful Tale](https://chicorygame.com/). Like the game’s world where users paint their surroundings, PaintFlow gives users a sandbox to manage, transform and experiment with images.
 
-* Assignment Designed and Programmed by Jackson Goerner.
-* Multiple points of valuable feedback and checking provided by Lifi Huang.
-* Game Idea originated from [Chicory: A Colorful Tale](https://chicorygame.com/).
+Through structured data management (using stacks, queues and lists), PaintFlow makes it simple to undo and redo actions, apply transformations and add layers of color and effects, all optimized for smooth performance.
 
-## Group Members
 
-- Bryan Chow Wei Qian (bcho0034@student.monash.edu)
+## Badges
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+## Features
+
+* Canvas Manipulation: Explore a digital canvas, transforming it with various tools and colors.
+* Undo/Redo Magic: Quickly reverse or reapply actions with stack-based undo/redo operations.
+* Flow of Creativity: Effortlessly move through layers and apply custom image transformations.
+* Efficient Performance: Designed to handle complex operations seamlessly for a fluid, creative experience.
+
 
 ## Setup
 
